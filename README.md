@@ -1,5 +1,7 @@
 <div align=center>
 
+[기술소개](https://github.com/EzYong1208/EzYong1208/blob/main/%EA%B8%B0%EC%88%A0%EC%86%8C%EA%B0%9C%EC%84%9C_%EB%B0%95%EC%A0%95%EC%9D%80.pdf)
+
 # 팀 포트폴리오 소개 영상입니다.
 
 ## 1. DirectX 11 3D 최종 팀 포트폴리오 : Guilty Gear -STRIVE- 모작
