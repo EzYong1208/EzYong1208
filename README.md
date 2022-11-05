@@ -12,6 +12,7 @@
 맵툴과 이펙트 파트 담당하였습니다.
 
 [![Video Label](http://img.youtube.com/vi/vnwS9bySjMs/0.jpg)](https://youtu.be/vnwS9bySjMs)
+###### ▶ 위 이미지는 시연회 유튜브 링크입니다.
 
 #### 작업기간 : 2022.06.22 ~ 2022.08.30 (70일)
 ***
@@ -20,6 +21,7 @@
 아이템과 NPC 파트 담당하였습니다.
 
 [![Video Label](http://img.youtube.com/vi/Di28Ud8U1IY/0.jpg)](https://youtu.be/Di28Ud8U1IY)
+###### ▶ 위 이미지는 시연회 유튜브 링크입니다.
 
 #### 작업기간 : 2022.02.10 ~ 2022.03.15 (34일)
 
@@ -35,6 +37,7 @@
 
 
 [![Video Label](http://img.youtube.com/vi/mUs7LR4Mmrg/0.jpg)](https://youtu.be/mUs7LR4Mmrg)
+###### ▶ 위 이미지는 시연회 유튜브 링크입니다.
 
 
 #### 작업기간 : 2022.3.15~2022.06.21 (99일)
@@ -42,9 +45,10 @@
   
   
   
-  
-  
-  
+
+*** 
+ 
+ 
 
 ##### 모든 프로젝트는 상용엔진이 아닌 DirectX SDK를 이용하여 개발하였습니다.
 ##### IDE는 Visual Studio 2015, 2022 버전을 이용하였습니다.
